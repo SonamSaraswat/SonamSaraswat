@@ -16,7 +16,7 @@ Here are some cool projects I’ve built recently:
 
 ## 📫 How to reach me
 - Email: sonamsaraswat449@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/sonam-saraswat-b688351b2/)
+- LinkedIn: https://www.linkedin.com/in/sonam-saraswat-b688351b2/
 ---
 
 Thanks for visiting my profile! Feel free to connect or check out my work. 😊
