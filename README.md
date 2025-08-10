@@ -12,7 +12,7 @@ I’m a passionate Frontend Developer with 2+ years of experience building respo
 ## 🌟 Projects
 Here are some cool projects I’ve built recently:
 - [Project 1](https://docto-sonam-saraswats-projects.vercel.app/) 
-- [Project 2](https://food-delivery-ten-tau.vercel.app/)) 
+- [Project 2](https://food-delivery-ten-tau.vercel.app/)
 
 ## 📫 How to reach me
 - Email: sonamsaraswat449@gmail.com
